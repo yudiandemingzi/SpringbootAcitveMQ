@@ -1,0 +1,1 @@
+# Springboot整合ActiveMQ，这里的MQ路径需要修改成你自己的路径
